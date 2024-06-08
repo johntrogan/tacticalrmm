@@ -27,7 +27,7 @@ pyparsing==3.1.2
 python-ipware==2.0.2
 qrcode==7.4.2
 redis==5.0.4
-requests==2.31.0
+requests==2.32.2
 six==1.16.0
 sqlparse==0.5.0
 twilio==8.13.0
